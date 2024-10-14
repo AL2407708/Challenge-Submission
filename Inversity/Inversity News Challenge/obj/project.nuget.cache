@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xjaRyL+PyS28s1p7PATE/sailR0VmhtYcMsEzG9BjXr7Xve7BO3PPEzbVKLVSTnUswboz0aektdNuF89I+MYTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\al.2407708\\OneDrive - Hereford Sixth Form College\\Class Work\\Computer Science\\Code\\Inversity News Challenge\\Inversity News Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\al.2407708\\.nuget\\packages\\videolan.libvlc.windows\\3.0.21\\videolan.libvlc.windows.3.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

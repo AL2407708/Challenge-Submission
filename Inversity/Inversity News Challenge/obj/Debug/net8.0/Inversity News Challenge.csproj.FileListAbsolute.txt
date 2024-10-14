@@ -1,0 +1,4 @@
+C:\Users\al.2407708\OneDrive - Hereford Sixth Form College\Class Work\Computer Science\Code\Inversity News Challenge\obj\Debug\net8.0\Inversity News Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.2407708\OneDrive - Hereford Sixth Form College\Class Work\Computer Science\Code\Inversity News Challenge\obj\Debug\net8.0\Inversity News Challenge.AssemblyInfoInputs.cache
+C:\Users\al.2407708\OneDrive - Hereford Sixth Form College\Class Work\Computer Science\Code\Inversity News Challenge\obj\Debug\net8.0\Inversity News Challenge.AssemblyInfo.cs
+C:\Users\al.2407708\OneDrive - Hereford Sixth Form College\Class Work\Computer Science\Code\Inversity News Challenge\obj\Debug\net8.0\Inversity News Challenge.csproj.CoreCompileInputs.cache

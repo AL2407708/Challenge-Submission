@@ -1,0 +1,4 @@
+In c# make a questionnaire.
+Give them a link to a youtube video to watch (or figure out how to play a youtube video in c#).
+Use readline and writeline to ask the user questions and give them a final score.
+

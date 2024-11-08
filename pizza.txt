@@ -1,0 +1,9 @@
+Pizza AI bot that helps customers to design their own pizza
+Help to create an enjoyable experience
+Fun for kida meaning good for adults too as it gets everyone joining in
+Use waiters to deliver food and take feedback
+Increases speed at which people are served
+Store feedback on a database
+Use introductory videos and quizes for training staff
+COllect lots of feedback all round
+Application for urgent feedback which needs to be acted upon which tracks progress of it ( think about frontend and backend code)
